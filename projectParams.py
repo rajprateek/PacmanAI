@@ -13,7 +13,7 @@
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
 
-STUDENT_CODE_DEFAULT = 'inference.py'
-PROJECT_TEST_CLASSES = 'trackingTestClasses.py'
-PROJECT_NAME = 'Project 4: Ghostbusters'
-BONUS_PIC = True
+STUDENT_CODE_DEFAULT = 'searchAgents.py,search.py'
+PROJECT_TEST_CLASSES = 'searchTestClasses.py'
+PROJECT_NAME = 'Project 1: Search'
+BONUS_PIC = False
